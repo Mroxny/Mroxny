@@ -1,14 +1,11 @@
-<p align="center">
+<div align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=Mroxny&theme=onedark&rank=-C" />
-</p>
-
+</div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mroxny/Mroxny/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mroxny/Mroxny/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Mroxny/Mroxny/output/github-contribution-grid-snake.svg">
 </picture>
-
-
 <!--## Hi there 👋
 
 
