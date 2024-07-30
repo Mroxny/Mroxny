@@ -1,3 +1,7 @@
+<div align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=Mroxny&theme=onedark&rank=-C" />
+</div>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mroxny/Mroxny/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mroxny/Mroxny/output/github-contribution-grid-snake.svg">
@@ -18,10 +22,7 @@ Cybersecurity and DevOps, DevSecOps
 * email: `maciej.h.mrozek@gmail.com`
 * linkedin: https://www.linkedin.com/in/maciej-mrozek-7541811a1/
 
-  
-<div align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=Mroxny&theme=onedark&rank=-C" />
-</div>
+
 <!--## Hi there 👋
 Here are some ideas to get you started:
 
