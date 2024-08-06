@@ -10,7 +10,7 @@
 
 ## About me
 <p>Just a regular guy who likes computers. Just when I think I know a lot, I dig deeper and it turns out I didn't really know anything. I am passionate about technological trivia and computer games.<p>
-(and also, yes, I have a life)<p>
+
 
 ### 🔭 I’m currently working on...
 My team bachelor project (you can find it [here](https://github.com/Reservant-inc))
