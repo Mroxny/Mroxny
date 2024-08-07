@@ -13,7 +13,7 @@
 
 
 ### 🔭 I’m currently working on...
-My team bachelor project (you can find it [here](https://github.com/Reservant-inc))
+My team bachelor project *[Reservant](https://github.com/Reservant-inc)*
 
 ### 🌱 I’m currently learning...
 Cybersecurity and DevOps, DevSecOps
