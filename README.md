@@ -12,7 +12,7 @@
 My team bachelor project *[Reservant](https://github.com/Reservant-inc)*
 
 ### 🌱 I’m currently learning...
-Cybersecurity and DevOps, DevSecOps
+DevOps, DevSecOps, SRE
 
 ### 📫 How to reach me...
 * email: `maciej.h.mrozek@gmail.com`
