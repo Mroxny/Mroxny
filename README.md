@@ -5,7 +5,7 @@
 </picture>
 
 ## About me
-<p>Just a regular guy who likes computers. Just when I think I know a lot, I dig deeper and it turns out I didn't really know anything. I am passionate about technological trivia and computer games.<p>
+<p>Just a regular guy who likes computers. Every time when I think I know a lot, I dig deeper and it turns out I didn't really know anything. I am passionate about technological trivia and computer games.<p>
 
 
 ### 🔭 I’m currently working on...
