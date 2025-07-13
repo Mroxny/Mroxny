@@ -9,7 +9,7 @@
 
 
 ### 🔭 I’m currently working on...
-Cool kubernetes project 
+Cool kubernetes projects 
 
 ### 🌱 I’m currently learning...
 DevOps, DevSecOps, SRE
