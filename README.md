@@ -16,11 +16,11 @@ DevOps, DevSecOps, SRE
 
 ### 📫 How to reach me...
 * email: `maciej.h.mrozek@gmail.com`
-* linkedin: https://www.linkedin.com/in/maciej-mrozek-7541811a1/
+* linkedin: https://www.linkedin.com/in/maciej-mrozek/
 
-<p align="center">
+<!-- <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=Mroxny&theme=onedark&rank=-C" />
-</p>
+</p> -->
 
 <!--## Hi there 👋
 Here are some ideas to get you started:
